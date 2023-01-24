@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background: #ffffff;
+    color: #000;
+}
+.dropdown-button {
+    display: block;
+    margin-top: 1%;
+    border: 1px solid #ffffff;
+    padding: 14px 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #000;
+    transition: background 0.5s;
+    
+}
+
+.dropdown-button:hover {
+    background: #8998b1;
+} 
+
+.app-div {
+    padding: 10px 10%;
+    height: 100%;
+}   
+.plot-container {
+    height: 750px;
+}
+.dropdown-container {
+    margin-top: 2%;
+}
+h1{
+    width: auto;
+    text-align-last: center;
+    
+}

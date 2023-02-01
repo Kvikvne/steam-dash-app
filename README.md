@@ -14,7 +14,7 @@ This is a simple web app created using Dash that displays interactive graphs and
 
 1. Clone the repository: `git clone https://github.com/Kvikvne/Steam-charts-dashboard.git`
 2. Install the requirements: `pip install -r requirements.txt`
-3. Run the app: `python app.py`
+3. Run the app: `python main.py`
 4. Access the app in your browser at http://127.0.0.1:8050/
 
 ## Data
